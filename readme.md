@@ -1,4 +1,4 @@
 # Dosa
 
 * dosa floor
-* oil
+* light oil
