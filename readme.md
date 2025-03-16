@@ -1,4 +1,5 @@
 # Dosa
 
 * dosa floor
-* light oil
+* karam
+* oil
